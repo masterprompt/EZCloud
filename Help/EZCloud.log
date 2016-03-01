@@ -1,0 +1,21 @@
+Microsoft (R) Help Compiler
+HCRTF 4.03.0002
+Copyright (c) Microsoft Corp 1990 - 1995. All rights reserved.
+ezcloud.hpj
+    HC2002: Note: 
+	The keywords "lod" and "LOD" are identical except for case. Help Workshop has modified one keyword to match the other.
+    HC2002: Note: 
+	The keywords "requirements" and "Requirements" are identical except for case. Help Workshop has modified one keyword to match the other.
+    HC2002: Note: 
+	The keywords "scale" and "Scale" are identical except for case. Help Workshop has modified one keyword to match the other.
+69	Topics
+321	Jumps
+133	Keywords
+26	Bitmaps
+
+
+Created c:\documents and settings\ckerr\my documents\codereview\ezcloud\help\ezcloud.hlp, 459,486 bytes
+Bitmaps: 415,470 bytes
+Phrase+Zeck compression decreased help file by 31,628 bytes.
+Compile time: 0 minutes, 3 seconds
+3 notes, 0 warnings

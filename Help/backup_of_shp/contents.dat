@@ -1,0 +1,402 @@
+##v##00.4.50
+79
+----------------- 0 - Header ---------------
+Using The EZCloud Builder
+-1
+2
+0
+----------------- 1 - Header ---------------
+Getting Started
+-1
+2
+0
+----------------- 2 - Page -----------------
+Welcome to EZCloud
+0
+0
+1
+----------------- 3 - Page -----------------
+Requirements
+1
+0
+1
+----------------- 4 - Page -----------------
+Troubleshooting
+2
+0
+1
+----------------- 5 - Header ---------------
+Camera Control
+-1
+2
+1
+----------------- 6 - Page -----------------
+Camera Control Basics
+3
+0
+2
+----------------- 7 - Header ---------------
+LOD System
+-1
+2
+1
+----------------- 8 - Page -----------------
+Understanding the LOD system
+4
+0
+2
+----------------- 9 - Header ---------------
+Configuring The Viewport
+-1
+2
+1
+----------------- 10 - Page -----------------
+EZCloud Menu
+5
+0
+2
+----------------- 11 - Page -----------------
+Showing Cloud Groups
+6
+0
+2
+----------------- 12 - Page -----------------
+Enabling the LOD system
+7
+0
+2
+----------------- 13 - Page -----------------
+Enabling the Grid
+8
+0
+2
+----------------- 14 - Page -----------------
+Changing the Colors
+9
+0
+2
+----------------- 15 - Header ---------------
+Cloud Groups
+-1
+2
+1
+----------------- 16 - Page -----------------
+Understanding Cloud Groups
+10
+0
+2
+----------------- 17 - Page -----------------
+Understanding System Metrics
+11
+0
+2
+----------------- 18 - Header ---------------
+Group Properties
+-1
+2
+2
+----------------- 19 - Page -----------------
+Changing Cloud Properties
+12
+0
+3
+----------------- 20 - Page -----------------
+Cloud Type
+13
+0
+3
+----------------- 21 - Page -----------------
+Particle Count
+14
+0
+3
+----------------- 22 - Page -----------------
+Particle Size
+15
+0
+3
+----------------- 23 - Page -----------------
+Particle Alpha
+16
+0
+3
+----------------- 24 - Page -----------------
+LOD
+17
+0
+3
+----------------- 25 - Page -----------------
+Particle Color
+18
+0
+3
+----------------- 26 - Page -----------------
+Particle Regeneration
+19
+0
+3
+----------------- 27 - Header ---------------
+Creating, Selecting, Positioning, and Scaling
+-1
+2
+2
+----------------- 28 - Page -----------------
+Creating Cloud Groups
+20
+0
+3
+----------------- 29 - Page -----------------
+Selecting Groups
+21
+0
+3
+----------------- 30 - Page -----------------
+Moving Groups
+22
+0
+3
+----------------- 31 - Page -----------------
+Scaling Groups
+23
+0
+3
+----------------- 32 - Header ---------------
+Opening, Saving, and Merging Cloud Files
+-1
+2
+1
+----------------- 33 - Page -----------------
+Opening and Merging Cloud Groups
+24
+0
+2
+----------------- 34 - Page -----------------
+Saving Cloud Groups
+25
+0
+2
+----------------- 35 - Header ---------------
+Exporting Clouds
+-1
+2
+1
+----------------- 36 - Page -----------------
+Exporting a Single Cloud
+26
+0
+2
+----------------- 37 - Page -----------------
+Exporting Multiple Clouds
+27
+0
+2
+----------------- 38 - Header ---------------
+Using The EZCloud System
+-1
+2
+0
+----------------- 39 - Page -----------------
+Understanding The EZCloud System
+28
+0
+1
+----------------- 40 - Page -----------------
+Starting the System
+29
+0
+1
+----------------- 41 - Header ---------------
+System Functions
+-1
+2
+1
+----------------- 42 - Page -----------------
+Function List
+30
+0
+2
+----------------- 43 - Page -----------------
+Cloud_CreateCloud()
+31
+0
+2
+----------------- 44 - Page -----------------
+Cloud_CreateParticle()
+32
+0
+2
+----------------- 45 - Page -----------------
+Cloud_Get_Particle()
+33
+0
+2
+----------------- 46 - Page -----------------
+Cloud_Get_ParticleAlpha()
+34
+0
+2
+----------------- 47 - Page -----------------
+Cloud_Get_ParticleCount()
+35
+0
+2
+----------------- 48 - Page -----------------
+Cloud_Get_ParticleFormation()
+36
+0
+2
+----------------- 49 - Page -----------------
+Cloud_Get_ParticleLOD()
+37
+0
+2
+----------------- 50 - Page -----------------
+Cloud_Get_ParticleScale()
+38
+0
+2
+----------------- 51 - Page -----------------
+Cloud_Get_ParticleType()
+39
+0
+2
+----------------- 52 - Page -----------------
+Cloud_Init()
+40
+0
+2
+----------------- 53 - Page -----------------
+Cloud_Kill_AllClouds()
+41
+0
+2
+----------------- 54 - Page -----------------
+Cloud_Kill_AllParticles()
+42
+0
+2
+----------------- 55 - Page -----------------
+Cloud_Kill_Cloud()
+43
+0
+2
+----------------- 56 - Page -----------------
+Cloud_Kill_Particles()
+44
+0
+2
+----------------- 57 - Page -----------------
+Cloud_LoadCloud()
+45
+0
+2
+----------------- 58 - Page -----------------
+Cloud_Set_CloudFormation()
+46
+0
+2
+----------------- 59 - Page -----------------
+Cloud_Set_ParticleAlpha()
+47
+0
+2
+----------------- 60 - Page -----------------
+Cloud_Set_ParticleColor()
+48
+0
+2
+----------------- 61 - Page -----------------
+Cloud_Set_ParticleFormation()
+49
+0
+2
+----------------- 62 - Page -----------------
+Cloud_Set_ParticleLOD()
+50
+0
+2
+----------------- 63 - Page -----------------
+Cloud_Set_ParticlePosition()
+51
+0
+2
+----------------- 64 - Page -----------------
+Cloud_Set_ParticleScale()
+52
+0
+2
+----------------- 65 - Page -----------------
+Cloud_Set_ParticleType()
+53
+0
+2
+----------------- 66 - Page -----------------
+Cloud_Update()
+54
+0
+2
+----------------- 67 - Header ---------------
+System Globals
+-1
+2
+1
+----------------- 68 - Page -----------------
+Global List
+55
+0
+2
+----------------- 69 - Page -----------------
+Cloud_Cam
+56
+0
+2
+----------------- 70 - Page -----------------
+Cloud_SysActive
+57
+0
+2
+----------------- 71 - Page -----------------
+Cloud_MaxVerticies
+58
+0
+2
+----------------- 72 - Page -----------------
+Cloud_ActiveParticles
+59
+0
+2
+----------------- 73 - Page -----------------
+Cloud_TotalParticles
+60
+0
+2
+----------------- 74 - Page -----------------
+Cloud_LODActive
+61
+0
+2
+----------------- 75 - Page -----------------
+Cloud_LODDistance
+62
+0
+2
+----------------- 76 - Page -----------------
+Cloud_TemplateFile$
+63
+0
+2
+----------------- 77 - Page -----------------
+Cloud_Object
+64
+0
+2
+----------------- 78 - Header ---------------
+Tutorials
+-1
+2
+0
+----------------- 79 - Page -----------------
+Tutorials Section
+65
+0
+1

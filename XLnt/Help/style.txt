@@ -1,0 +1,63 @@
+body {
+background: #ffffff;
+font-family: verdana;
+font-size: 10px;
+color: #000000;
+SCROLLBAR-FACE-COLOR: #d4e4ff;
+SCROLLBAR-HIGHLIGHT-COLOR: #e4f4ff;
+SROLLBAR-3DLIGHT-COLOR: #7B7B7A;
+SCROLLBAR-DARKSHADOW-COLOR: #7B7B7A; 
+SCROLLBAR-SHADOW-COLOR: #0000aa; 
+SCROLLBAR-ARROW-COLOR: #000000;
+SCROLLBAR-TRACK-COLOR: #94a4bb;
+}
+
+A:link {color: #0011aa; text-decoration: none}
+A:active {color: #0011aa; text-decoration: none}
+A:visited {color: #0011aa; text-decoration: none}
+A:hover {color: #aa1100; text-decoration: none;}
+
+H1 {
+color: #000000;
+font-family: verdana;
+font-size: 20px;
+font-weight: bold;
+}
+H2 {
+color: #000000;
+font-family: verdana;
+font-size: 16px;
+font-weight: bolder;
+}
+H3 {
+color: #000000;
+font-family: verdana;
+font-size: 12px;
+font-weight: bold;
+}
+
+H4 {
+color: #000000;
+font-family: verdana;
+font-size: 10px;
+font-weight: bold;
+}
+
+.bluetable {
+background-color: #e0efff;
+font-family: verdana;
+font-size: 10px;
+color: #000000;
+}
+
+.code {
+background-color: #a4b4cf;
+font-family: verdana;
+font-size: 10px;
+color: #000033;
+border: solid #000000 1;
+}
+
+
+
+

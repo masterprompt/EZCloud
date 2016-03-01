@@ -1,0 +1,1537 @@
+##v##00.4.50
+pagenumber=65
+linenumber=55
+sellength=0
+topline=0
+EditHelpFileTitle.Text=EZCloud Builder
+form2.STextForeHeadline.Color=16777215
+form2.STextForeText.Color=0
+form2.STextBackHeadline.Color=12845056
+form2.STextBackText.Color=16777215
+form2.STextHeadlineFont.Caption=Arial
+form2.STextTextFont.Caption=Arial
+form2.sTextFontSizeForHeadline.Caption=12
+form2.sTextFontSizeForText.Caption=9
+form2.CBoxBold.Checked=1
+form2.CBoxNoForeColor.Checked=0
+form2.CBoxLanguageID.ItemIndex=0
+form2.CBoxCharSet.ItemIndex=0
+form2.EditContents.Text=Contents
+form2.EditFrontpageName.Text=EZCloud Index
+form2.CBoxDontMakeFrontpage.Checked=0
+form2.EditLogoPath.Text=EZCloudlogo.bmp
+form2.EditFrontpageButtonCaption.Text=Start Here
+form2.RGroupHorizontalAlignment.ItemIndex=0
+form2.RGroupVerticalAlignment.ItemIndex=0
+form2.CBoxBlankLineBeforeEachHeading.Checked=0
+form2.CBoxMakeFrontPageButton.Checked=1
+form2.SpinEditFrontpageIDnumber.Value=9999
+form2.CBoxAddAboutMenu.Checked=0
+form2.EditAboutMenuCaption.Text=&About this help file...
+form2.CBoxPopupPagesForAboutMenu.Tag=-1
+form2.EditConstantNameFilePrefix.Text=pageConstants_
+form2.EditConstantNameFileExt.Text=txt
+form2.CBoxDontMakeHeadersKeywords.Checked=0
+form2.CBoxDontMakeTargetsKeywords.Checked=0
+copyToPath=
+form5.sTextColor1=0
+form5.sTextColor2=9743070
+form5.sTextColor3=12386403
+form5.sTextColor4=255
+form5.sTextColor5=8421376
+form5.sTextColor6=8650752
+form5.sTextColor7=33280
+form5.sTextColor8=32896
+form5.sTextColor9=13026246
+form5.sTextColor10=16711680
+form5.sTextColor11=65280
+form5.sTextColor12=8651007
+form5.sTextColor13=16777215
+form5.sTextColor14=16757429
+form5.sTextColor15=9764863
+form5.sTextColor16=8421504
+form5.sTextComment1=
+form5.sTextComment2=
+form5.sTextComment3=
+form5.sTextComment4=
+form5.sTextComment5=
+form5.sTextComment6=
+form5.sTextComment7=
+form5.sTextComment8=
+form5.sTextComment9=
+form5.sTextComment10=
+form5.sTextComment11=
+form5.sTextComment12=
+form5.sTextComment13=
+form5.sTextComment14=
+form5.sTextComment15=
+form5.sTextComment16=
+NumOfPages=65
+------------ end of project settings / page settings follow ------------
+pageC.pages[0].ImageIndex=-1
+pageTitle(0).Text=Welcome to EZCloud
+getPageConstantLabel(0).Caption=
+getPageContentHeaderLabel(0).Caption=
+pageKeywords(0).Text=welcome; start; getting started
+pageC.pages[1].ImageIndex=-1
+pageTitle(1).Text=Requirements
+getPageConstantLabel(1).Caption=
+getPageContentHeaderLabel(1).Caption=
+pageKeywords(1).Text=specs;requirements
+pageC.pages[2].ImageIndex=-1
+pageTitle(2).Text=Troubleshooting
+getPageConstantLabel(2).Caption=
+getPageContentHeaderLabel(2).Caption=
+pageKeywords(2).Text=contact;web
+pageC.pages[3].ImageIndex=-1
+pageTitle(3).Text=Camera Control Basics
+getPageConstantLabel(3).Caption=
+getPageContentHeaderLabel(3).Caption=
+pageKeywords(3).Text=camera;viewport;control;move
+pageC.pages[4].ImageIndex=-1
+pageTitle(4).Text=Understanding the LOD system
+getPageConstantLabel(4).Caption=
+getPageContentHeaderLabel(4).Caption=
+pageKeywords(4).Text=
+pageC.pages[5].ImageIndex=-1
+pageTitle(5).Text=EZCloud Menu
+getPageConstantLabel(5).Caption=
+getPageContentHeaderLabel(5).Caption=
+pageKeywords(5).Text=
+pageC.pages[6].ImageIndex=-1
+pageTitle(6).Text=Showing Cloud Groups
+getPageConstantLabel(6).Caption=
+getPageContentHeaderLabel(6).Caption=
+pageKeywords(6).Text=group;groups;cloud;cube;box;square
+pageC.pages[7].ImageIndex=-1
+pageTitle(7).Text=Enabling the LOD system
+getPageConstantLabel(7).Caption=
+getPageContentHeaderLabel(7).Caption=
+pageKeywords(7).Text=lod;system
+pageC.pages[8].ImageIndex=-1
+pageTitle(8).Text=Enabling the Grid
+getPageConstantLabel(8).Caption=
+getPageContentHeaderLabel(8).Caption=
+pageKeywords(8).Text=grid;viewport
+pageC.pages[9].ImageIndex=-1
+pageTitle(9).Text=Changing the Colors
+getPageConstantLabel(9).Caption=
+getPageContentHeaderLabel(9).Caption=
+pageKeywords(9).Text=camera;viewport;view;color
+pageC.pages[10].ImageIndex=-1
+pageTitle(10).Text=Understanding Cloud Groups
+getPageConstantLabel(10).Caption=
+getPageContentHeaderLabel(10).Caption=
+pageKeywords(10).Text=groups;group;cloud
+pageC.pages[11].ImageIndex=-1
+pageTitle(11).Text=Understanding System Metrics
+getPageConstantLabel(11).Caption=
+getPageContentHeaderLabel(11).Caption=
+pageKeywords(11).Text=
+pageC.pages[12].ImageIndex=-1
+pageTitle(12).Text=Changing Cloud Properties
+getPageConstantLabel(12).Caption=
+getPageContentHeaderLabel(12).Caption=
+pageKeywords(12).Text=properties;configure;;particle;group
+pageC.pages[13].ImageIndex=-1
+pageTitle(13).Text=Cloud Type
+getPageConstantLabel(13).Caption=
+getPageContentHeaderLabel(13).Caption=
+pageKeywords(13).Text=type;particle;group
+pageC.pages[14].ImageIndex=-1
+pageTitle(14).Text=Particle Count
+getPageConstantLabel(14).Caption=
+getPageContentHeaderLabel(14).Caption=
+pageKeywords(14).Text=count;;particle;group
+pageC.pages[15].ImageIndex=-1
+pageTitle(15).Text=Particle Size
+getPageConstantLabel(15).Caption=
+getPageContentHeaderLabel(15).Caption=
+pageKeywords(15).Text=size;scale;particle;group
+pageC.pages[16].ImageIndex=-1
+pageTitle(16).Text=Particle Alpha
+getPageConstantLabel(16).Caption=
+getPageContentHeaderLabel(16).Caption=
+pageKeywords(16).Text=alpha;particle;group
+pageC.pages[17].ImageIndex=-1
+pageTitle(17).Text=LOD
+getPageConstantLabel(17).Caption=
+getPageContentHeaderLabel(17).Caption=
+pageKeywords(17).Text=lod;cloud;group
+pageC.pages[18].ImageIndex=-1
+pageTitle(18).Text=Particle Color
+getPageConstantLabel(18).Caption=
+getPageContentHeaderLabel(18).Caption=
+pageKeywords(18).Text=color;particle;group
+pageC.pages[19].ImageIndex=-1
+pageTitle(19).Text=Particle Regeneration
+getPageConstantLabel(19).Caption=
+getPageContentHeaderLabel(19).Caption=
+pageKeywords(19).Text=regenerate;particle;cloud;group
+pageC.pages[20].ImageIndex=-1
+pageTitle(20).Text=Creating Cloud Groups
+getPageConstantLabel(20).Caption=
+getPageContentHeaderLabel(20).Caption=
+pageKeywords(20).Text=create;cloud;group
+pageC.pages[21].ImageIndex=-1
+pageTitle(21).Text=Selecting Groups
+getPageConstantLabel(21).Caption=
+getPageContentHeaderLabel(21).Caption=
+pageKeywords(21).Text=select;group
+pageC.pages[22].ImageIndex=-1
+pageTitle(22).Text=Moving Groups
+getPageConstantLabel(22).Caption=
+getPageContentHeaderLabel(22).Caption=
+pageKeywords(22).Text=move; group
+pageC.pages[23].ImageIndex=-1
+pageTitle(23).Text=Scaling Groups
+getPageConstantLabel(23).Caption=
+getPageContentHeaderLabel(23).Caption=
+pageKeywords(23).Text=Scale; group
+pageC.pages[24].ImageIndex=-1
+pageTitle(24).Text=Opening and Merging Cloud Groups
+getPageConstantLabel(24).Caption=
+getPageContentHeaderLabel(24).Caption=
+pageKeywords(24).Text=
+pageC.pages[25].ImageIndex=-1
+pageTitle(25).Text=Saving Cloud Groups
+getPageConstantLabel(25).Caption=
+getPageContentHeaderLabel(25).Caption=
+pageKeywords(25).Text=
+pageC.pages[26].ImageIndex=-1
+pageTitle(26).Text=Exporting a Single Cloud
+getPageConstantLabel(26).Caption=
+getPageContentHeaderLabel(26).Caption=
+pageKeywords(26).Text=
+pageC.pages[27].ImageIndex=-1
+pageTitle(27).Text=Exporting Multiple Clouds
+getPageConstantLabel(27).Caption=
+getPageContentHeaderLabel(27).Caption=
+pageKeywords(27).Text=
+pageC.pages[28].ImageIndex=-1
+pageTitle(28).Text=Understanding The EZCloud System
+getPageConstantLabel(28).Caption=
+getPageContentHeaderLabel(28).Caption=
+pageKeywords(28).Text=
+pageC.pages[29].ImageIndex=-1
+pageTitle(29).Text=Starting the System
+getPageConstantLabel(29).Caption=
+getPageContentHeaderLabel(29).Caption=
+pageKeywords(29).Text=
+pageC.pages[30].ImageIndex=-1
+pageTitle(30).Text=Function List
+getPageConstantLabel(30).Caption=
+getPageContentHeaderLabel(30).Caption=
+pageKeywords(30).Text=
+pageC.pages[31].ImageIndex=-1
+pageTitle(31).Text=Cloud_CreateCloud()
+getPageConstantLabel(31).Caption=
+getPageContentHeaderLabel(31).Caption=
+pageKeywords(31).Text=
+pageC.pages[32].ImageIndex=-1
+pageTitle(32).Text=Cloud_CreateParticle()
+getPageConstantLabel(32).Caption=
+getPageContentHeaderLabel(32).Caption=
+pageKeywords(32).Text=
+pageC.pages[33].ImageIndex=-1
+pageTitle(33).Text=Cloud_Get_Particle()
+getPageConstantLabel(33).Caption=
+getPageContentHeaderLabel(33).Caption=
+pageKeywords(33).Text=
+pageC.pages[34].ImageIndex=-1
+pageTitle(34).Text=Cloud_Get_ParticleAlpha()
+getPageConstantLabel(34).Caption=
+getPageContentHeaderLabel(34).Caption=
+pageKeywords(34).Text=
+pageC.pages[35].ImageIndex=-1
+pageTitle(35).Text=Cloud_Get_ParticleCount()
+getPageConstantLabel(35).Caption=
+getPageContentHeaderLabel(35).Caption=
+pageKeywords(35).Text=
+pageC.pages[36].ImageIndex=-1
+pageTitle(36).Text=Cloud_Get_ParticleFormation()
+getPageConstantLabel(36).Caption=
+getPageContentHeaderLabel(36).Caption=
+pageKeywords(36).Text=
+pageC.pages[37].ImageIndex=-1
+pageTitle(37).Text=Cloud_Get_ParticleLOD()
+getPageConstantLabel(37).Caption=
+getPageContentHeaderLabel(37).Caption=
+pageKeywords(37).Text=
+pageC.pages[38].ImageIndex=-1
+pageTitle(38).Text=Cloud_Get_ParticleScale()
+getPageConstantLabel(38).Caption=
+getPageContentHeaderLabel(38).Caption=
+pageKeywords(38).Text=
+pageC.pages[39].ImageIndex=-1
+pageTitle(39).Text=Cloud_Get_ParticleType()
+getPageConstantLabel(39).Caption=
+getPageContentHeaderLabel(39).Caption=
+pageKeywords(39).Text=
+pageC.pages[40].ImageIndex=-1
+pageTitle(40).Text=Cloud_Init()
+getPageConstantLabel(40).Caption=
+getPageContentHeaderLabel(40).Caption=
+pageKeywords(40).Text=
+pageC.pages[41].ImageIndex=-1
+pageTitle(41).Text=Cloud_Kill_AllClouds()
+getPageConstantLabel(41).Caption=
+getPageContentHeaderLabel(41).Caption=
+pageKeywords(41).Text=
+pageC.pages[42].ImageIndex=-1
+pageTitle(42).Text=Cloud_Kill_AllParticles()
+getPageConstantLabel(42).Caption=
+getPageContentHeaderLabel(42).Caption=
+pageKeywords(42).Text=
+pageC.pages[43].ImageIndex=-1
+pageTitle(43).Text=Cloud_Kill_Cloud()
+getPageConstantLabel(43).Caption=
+getPageContentHeaderLabel(43).Caption=
+pageKeywords(43).Text=
+pageC.pages[44].ImageIndex=-1
+pageTitle(44).Text=Cloud_Kill_Particles()
+getPageConstantLabel(44).Caption=
+getPageContentHeaderLabel(44).Caption=
+pageKeywords(44).Text=
+pageC.pages[45].ImageIndex=-1
+pageTitle(45).Text=Cloud_LoadCloud()
+getPageConstantLabel(45).Caption=
+getPageContentHeaderLabel(45).Caption=
+pageKeywords(45).Text=
+pageC.pages[46].ImageIndex=-1
+pageTitle(46).Text=Cloud_Set_CloudFormation()
+getPageConstantLabel(46).Caption=
+getPageContentHeaderLabel(46).Caption=
+pageKeywords(46).Text=
+pageC.pages[47].ImageIndex=-1
+pageTitle(47).Text=Cloud_Set_ParticleAlpha()
+getPageConstantLabel(47).Caption=
+getPageContentHeaderLabel(47).Caption=
+pageKeywords(47).Text=
+pageC.pages[48].ImageIndex=-1
+pageTitle(48).Text=Cloud_Set_ParticleColor()
+getPageConstantLabel(48).Caption=
+getPageContentHeaderLabel(48).Caption=
+pageKeywords(48).Text=
+pageC.pages[49].ImageIndex=-1
+pageTitle(49).Text=Cloud_Set_ParticleFormation()
+getPageConstantLabel(49).Caption=
+getPageContentHeaderLabel(49).Caption=
+pageKeywords(49).Text=
+pageC.pages[50].ImageIndex=-1
+pageTitle(50).Text=Cloud_Set_ParticleLOD()
+getPageConstantLabel(50).Caption=
+getPageContentHeaderLabel(50).Caption=
+pageKeywords(50).Text=
+pageC.pages[51].ImageIndex=-1
+pageTitle(51).Text=Cloud_Set_ParticlePosition()
+getPageConstantLabel(51).Caption=
+getPageContentHeaderLabel(51).Caption=
+pageKeywords(51).Text=
+pageC.pages[52].ImageIndex=-1
+pageTitle(52).Text=Cloud_Set_ParticleScale()
+getPageConstantLabel(52).Caption=
+getPageContentHeaderLabel(52).Caption=
+pageKeywords(52).Text=
+pageC.pages[53].ImageIndex=-1
+pageTitle(53).Text=Cloud_Set_ParticleType()
+getPageConstantLabel(53).Caption=
+getPageContentHeaderLabel(53).Caption=
+pageKeywords(53).Text=
+pageC.pages[54].ImageIndex=-1
+pageTitle(54).Text=Cloud_Update()
+getPageConstantLabel(54).Caption=
+getPageContentHeaderLabel(54).Caption=
+pageKeywords(54).Text=
+pageC.pages[55].ImageIndex=-1
+pageTitle(55).Text=Global List
+getPageConstantLabel(55).Caption=
+getPageContentHeaderLabel(55).Caption=
+pageKeywords(55).Text=
+pageC.pages[56].ImageIndex=-1
+pageTitle(56).Text=Cloud_Cam
+getPageConstantLabel(56).Caption=
+getPageContentHeaderLabel(56).Caption=
+pageKeywords(56).Text=
+pageC.pages[57].ImageIndex=-1
+pageTitle(57).Text=Cloud_SysActive
+getPageConstantLabel(57).Caption=
+getPageContentHeaderLabel(57).Caption=
+pageKeywords(57).Text=
+pageC.pages[58].ImageIndex=-1
+pageTitle(58).Text=Cloud_MaxVerticies
+getPageConstantLabel(58).Caption=
+getPageContentHeaderLabel(58).Caption=
+pageKeywords(58).Text=
+pageC.pages[59].ImageIndex=-1
+pageTitle(59).Text=Cloud_ActiveParticles
+getPageConstantLabel(59).Caption=
+getPageContentHeaderLabel(59).Caption=
+pageKeywords(59).Text=
+pageC.pages[60].ImageIndex=-1
+pageTitle(60).Text=Cloud_TotalParticles
+getPageConstantLabel(60).Caption=
+getPageContentHeaderLabel(60).Caption=
+pageKeywords(60).Text=
+pageC.pages[61].ImageIndex=-1
+pageTitle(61).Text=Cloud_LODActive
+getPageConstantLabel(61).Caption=
+getPageContentHeaderLabel(61).Caption=
+pageKeywords(61).Text=
+pageC.pages[62].ImageIndex=-1
+pageTitle(62).Text=Cloud_LODDistance
+getPageConstantLabel(62).Caption=
+getPageContentHeaderLabel(62).Caption=
+pageKeywords(62).Text=
+pageC.pages[63].ImageIndex=-1
+pageTitle(63).Text=Cloud_TemplateFile$
+getPageConstantLabel(63).Caption=
+getPageContentHeaderLabel(63).Caption=
+pageKeywords(63).Text=
+pageC.pages[64].ImageIndex=-1
+pageTitle(64).Text=Cloud_Object
+getPageConstantLabel(64).Caption=
+getPageContentHeaderLabel(64).Caption=
+pageKeywords(64).Text=
+pageC.pages[65].ImageIndex=-1
+pageTitle(65).Text=Tutorials Section
+getPageConstantLabel(65).Caption=
+getPageContentHeaderLabel(65).Caption=
+pageKeywords(65).Text=
+------------ end of page titles / full text of pages follow ------------
+----- SHM ---- page 0 ---- 
+\par\ql\{bml EZCloudlogo.bmp\}\par\ql
+Welcome to EZCloud!
+
+EZCloud was designed for easy 3D cloud creation and rendering in video game enviroments.
+
+Using a single surface camera displacement technique (SSCD), the EZCloud system can display hundreds of beautiful clouds used in today's demanding video game development industry.  Each cloud can be fully configured on the fly our pre-made using the EZCloud Builder.
+
+
+
+
+©2005 KCStudios All Rights Reserved
+----- SHM ---- page 1 ---- 
+\par\ql\{bml EZCloudlogo.bmp\}\par\ql
+<b>EZCloud Builder</b>
+-<u>Minimum</u>-
+800 Mhz Amd / Intel CPU
+Windows 98/ME/2000/XP
+64mb system ram
+100mb hard drive space
+Geforce2+ / Radeon 9000+ with updated drivers
+Svga monitor
+Microsoft directX  7.0
+-<u>Recommended</u>-
+1.0 ghz Amd / Intel CPU
+Windows 98/ME/2000/XP
+256mb system ram
+120mb hard drive space
+Geforce3+ / Radeon 9000+ with updated drivers
+Svga monitor
+Microsoft directX  8.1+ 
+
+<b>EZCloud System</b>
+Currently only requires BlitzBasic3D found {\uldb here}{\v !ExecFile(http://www.blitzbasic.com,,5,)}
+Ports to other languages for this system will be available soon.
+
+
+
+
+©2005 KCStudios All Rights Reserved
+----- SHM ---- page 2 ---- 
+\par\ql\{bml EZCloudlogo.bmp\}\par\ql
+Questions or comments?  
+Please email {\uldb KCStudios Support}{\v !ExecFile(mailto:support@kcstudios.net,,5,)}
+
+\par\ql\{bml KCSlogo.bmp\}\par\ql
+
+
+
+
+©2005 KCStudios All Rights Reserved
+----- SHM ---- page 3 ---- 
+Controlling the camera in the EZCloud Builder is easier than ever!
+
+<b>Camera Rotation</b>
+To rotate the camera around the world center point simply hold the right mouse button inside the viewport and drag the mouse.  Left to right rotates the camera around the Y axis while up and down rotates around the X axis.
+
+<b>Camera Zoom</b>
+To zoom in and out simply hold the center button or scroll wheel and drag the mouse up or down.  
+You may also simply scroll the mouse wheel in one direction or another to zoom by increments.
+
+<u>Note:</u><i>The EZCB Camera is kept locked to the center of the development enviroment (world coordinate 0,0,0).</i>
+----- SHM ---- page 4 ---- 
+\par\ql\{bml LODSystem.bmp\}\par\ql
+
+The LOD indicator at the bottom of the viewport shows wether the system is Active or Inactive.
+This also allows you to change the LOD Distance or Threshold of the LOD System.
+
+<jump=SHM_contents0008>Enabling the LOD system</jump>
+
+The LOD system works as a flag for what is shown and what isnt.  When a Cloud group has a 'Normal' LOD configuration, it will be shown when it is within the threshold distance of the camera.  When a Cloud group has a 'LOD' LOD configuration, it will only be shown when the cloud is outside the threshold distance of the camera.
+----- SHM ---- page 5 ---- 
+\par\ql\{bml EZCloudMenu.bmp\}\par\ql
+From the EZCloud menu you can configure the viewport.
+
+<jump=SHM_contents0007>Showing Cloud Groups</jump>
+<jump=SHM_contents0008>Enabling the LOD system</jump>
+<jump=SHM_contents0009>Enabling the Grid</jump>
+<jump=SHM_contents0010>Changing the Colors</jump>
+
+----- SHM ---- page 6 ---- 
+\par\ql\{bml EZCloudMenu_CG.bmp\}\par\ql
+Toggling cloud groups allows you to view the cloud groups as cubes or as the actual clouds.
+
+Toggling cloud groups on will allow you to see the defined area of that cluster of cloud particles.  Toggling them off will allow you to work with the clouds and make adjustments to the clouds in real-time.
+\par\ql\{bml CGON.bmp\}\par\ql
+Cloud Groups On
+\par\ql\{bml CGOFF.bmp\}\par\ql
+Cloud Groups Off
+----- SHM ---- page 7 ---- 
+\par\ql\{bml EZCloudMenu_LOD.bmp\}\par\ql
+
+The LOD system in EZCloud allows you to set specific cloud groups as LOD groups.  LOD groups are groups that are displayed when they are a certain distance from the camera.  Any Cloud group configured as a LOD group will be displayed when a defined distance from the camera has been made, any non-LOD configured groups will not be displayed at that distance.
+----- SHM ---- page 8 ---- 
+\par\ql\{bml EZCloudMenu_TG.bmp\}\par\ql
+
+This option allows you to toggle the viewport grid on and off.  The grid in EZCloud is used as a refference point visually on how large the cloud is, or how far away from the cloud you are.
+----- SHM ---- page 9 ---- 
+\par\ql\{bml EZCloudMenu_BC.bmp\}\par\ql
+
+Changing the background color of the camera viewport allows you to view your clouds as you would in a game enviroment.
+
+\par\ql\{bml CameraColor.bmp\}\par\ql
+
+Simply choose the color you want as the background color.
+----- SHM ---- page 10 ---- 
+Cloud groups are best described as a way to organize the cloud (or many clouds) into a uniform groups of particle properties.
+\par\ql\{bml CloudGroups.bmp\}\par\ql
+Each cloud group has properties that can be configured to give a different cloud effect.
+
+<jump=SHM_contents0014>Cloud Types</jump>
+<jump=SHM_contents0015>Particle Count</jump>
+<jump=SHM_contents0016>Particle Size</jump>
+<jump=SHM_contents0017>Particle Alpha</jump>
+<jump=SHM_contents0018>LOD</jump>
+<jump=SHM_contents0019>Particle Color</jump>
+<jump=SHM_contents0020>Particle Regeneration</jump>
+
+<jump=SHM_contents0021>Creating Cloud Groups</jump>
+<jump=SHM_contents0022>Selecting Groups</jump>
+<jump=SHM_contents0023>Moving Groups</jump>
+<jump=SHM_contents0024>Scaling Groups</jump>
+----- SHM ---- page 11 ---- 
+\par\ql\{bml metrics.bmp\}\par\ql
+
+The system metrics indicator at the lower right portion of the viewport gives statistical information of how the cloud system is operating on your machine.
+<b>Active Particles</b> 
+This shows how many particles you have created based on each cloud groups configuration
+
+<b>Cloud Polygons </b>
+Shows how many polygons are active in all the cloud groups
+
+<b>Cloud CPU</b>
+The cloud system uses a dynamic re-sorting algorythm to resort the particles to keep the alpha order correct.  This indicator will show how much of the CPU time is taken on this process.
+
+<b>Logical FPS </b>
+Based on the Cloud CPU, this indicator shows the theoretical Frames Per Second you will recieve your current cloud group layout. 
+
+<b>Note:  The Cloud CPU and Logical FPS are just based on the cloud system alone.  Meaning the ordering, re-sorting, and rendering of the clouds is all it monitors.  In your game enviroment the actual FPS may vary depending on what your application is doing outside of the cloud system.  This number will also vary from computer to computer based on that machines specs (IE CPU frequency, Video card capabilities, ram, etc).</b>
+----- SHM ---- page 12 ---- 
+From the right side of the screen you can change each group's properties.
+\par\ql\{bml Cloud Properties.bmp\}\par\ql
+
+<jump=SHM_contents0014>Cloud Types</jump>
+<jump=SHM_contents0015>Particle Count</jump>
+<jump=SHM_contents0016>Particle Size</jump>
+<jump=SHM_contents0017>Particle Alpha</jump>
+<jump=SHM_contents0018>LOD</jump>
+<jump=SHM_contents0019>Particle Color</jump>
+<jump=SHM_contents0020>Particle Regeneration</jump>
+----- SHM ---- page 13 ---- 
+The three main types of clouds are Cirrus, Stratus, and Cumulus.
+
+\par\ql\{bml Cirrus.bmp\}\par\ql
+Cirrus clouds are wispy and feathery.
+
+\par\ql\{bml Stratus.bmp\}\par\ql
+Stratus clouds are layered.  These are best used for fog or upper cloud layers.
+
+\par\ql\{bml Cumulus.bmp\}\par\ql
+Cumulus clouds are puffy in appearance.  These are the low level clouds you can usually see on a sunny day.
+----- SHM ---- page 14 ---- 
+Each cloud group is created with 50 particles by default.  Changing the number of particles doesn't change the group layout, but merely adds or subtracts from that layout.  
+
+<i>Note:The minimum number of particles is 1 and the max is 1000</i>
+----- SHM ---- page 15 ---- 
+Changing the particle size increases or decreases the scale of each particle in a specific cloud group.  
+
+Increasing the particle size allows you to have less cloud particles (less polygons) with a greater distance covered by the cloud.
+
+Decreasing the particle size allows you to compact the particles in tighter groups thus giving a denser feel to the group.
+----- SHM ---- page 16 ---- 
+The particle Alpha is how transparant the particles are.  Setting the slider to the left makes them fully transparant, whereas setting the slider to the right makes them fully visible.
+
+Setting the alpha of a cloud group is connected to the cloud formation value which keepts the cloud visible on a spline derrived transparancy.
+----- SHM ---- page 17 ---- 
+The group LOD (or level of detail) can be set to normal or LOD.
+
+A setting of Normal will keep the group visible when within the LOD threshold.
+
+A setting of LOD will keep the group visible when outside the LOD threshold.
+----- SHM ---- page 18 ---- 
+EZCloud allows you to set the color of all four corners of the particle.
+
+This allows you to do some interesting effects such as the simulation of light on the cloud or explosions.
+\par\ql\{bml cldcolor.bmp\}\par\ql
+----- SHM ---- page 19 ---- 
+Regenerating the particles allows you to re-organize the layout of the cloud group.
+
+\par\ql\{bml br.bmp\}\par\ql
+Before Regeneration
+
+\par\ql\{bml ar.bmp\}\par\ql
+After Regeneration
+----- SHM ---- page 20 ---- 
+\par\ql\{bml cg.bmp\}\par\ql
+
+Clicking on the create group button will create a basic cloud group
+----- SHM ---- page 21 ---- 
+\par\ql\{bml selectg.bmp\}\par\ql
+
+After clicking the 'select group' button, you will be allowed to select one or more groups.
+Simply click on that cloud group to select it (you will see the axis tool show up after you have selected a group).
+
+To select more than one group, hold down the Ctrl key to add others to this selection.
+
+To deselect groups from this selection hold the Ctrl key and click on those groups.  They will be de-selected keeping the others selected.
+----- SHM ---- page 22 ---- 
+\par\ql\{bml moveg.bmp\}\par\ql
+
+To move cloud groups, select the 'move group' button and place your curser on the axis tool in the viewport.  
+\par\ql\{bml axistool.bmp\}\par\ql
+The specific axis of the axis tool will highlight red when your mouse is over it.  Simply hold the left mouse button down and drag the mouse to move the selected group(s) along that axis
+----- SHM ---- page 23 ---- 
+\par\ql\{bml scaleg.bmp\}\par\ql
+
+To scale  cloud groups, select the 'scale group' button and place your curser on the axis tool in the viewport.  
+\par\ql\{bml axistool.bmp\}\par\ql
+The specific axis of the axis tool will highlight red when your mouse is over it.  Simply hold the left mouse button down and drag the mouse to scale  the selected group(s) along that axis
+----- SHM ---- page 24 ---- 
+Opening a EZC file will import all viewport settings and cloud groups into the current view clearing anything that is present currently.
+
+Merging an EZC file will open the file into the current viewport without clearing the existing groups.
+----- SHM ---- page 25 ---- 
+Saving to an EZC file will save all cloud groups, cloud properties, cloud layouts and all viewport configurations.   
+
+<i>Note: The EZC file is intended for use with EZCloud Builder only!</i>
+----- SHM ---- page 26 ---- 
+Exporting a single cloud to an .clf file will compile all cloud groups into a single group keeping the layout and individual particle properties intact.  
+
+<i>Note:Due to memory efficiency, the cloud system allows a maximum of 1000 particles to a cloud, thus if the count is over 1000, exporting a single cloud will not be allowed.</i>
+----- SHM ---- page 27 ---- 
+Exporting multiple clouds to an .clf file will export each group keeing it's layout and particle properties intact into the file.
+----- SHM ---- page 28 ---- 
+The EZCloud system uses a combination of Single Surface and Camera Displacement to give it the needed speed for a video game enviroment.
+
+<b>Single Surface Systems</b>
+Single surface systems are particle systems that keep all particles attached to one mesh, and one surface.  Unlike other particle systems, this keeps the video card from changing state so often when updating the particle positions/rendering planes.  Other non-single surface systems require that calculations for distance, angle, and light normal when positioning each particle to face the camera.   Single surface systems require the same calculations however since all particles are part of a single mesh, the video card merely itterates through one mesh rather than many meshes.  A single surface system reduces the amount of video memory and gpu time in comparrison to non-single surface systems.
+
+<b>Camera Displacement Systems</b>
+Most particle systems have to re-calculate its angle on a arbitrary plane to keep the particles facing the camera.  Camera displacement systems create the single surface mesh as a child object of the camera.  All particles are created in front of the camera and as the camera moves/rotates so does the mesh along with it.  Thus each particle is kept facing the camera due to the nature of the parent/child relationship of the camera and the single surface mesh.  The only thing left to do is to reposition the particle to the world position it is supposed to be at.  Since this only requires a translation rather than a rotation and translation, it saves on GPU process time.
+
+<b>How EZCloud works</b>
+EZCloud creates a list of cloud sthat are user generated, and a seperate list of particles that are user generated for each cloud.  As the camera rotates/translates the particles are merely translated to the world coordinates they should be at in refference to the cloud they are associated with.  As particles are no longer needed they go into a particle repository where they are stored to be used later on.  The storing of particles in the repository allows the system to reuse old particles thus avoiding the constant rebuilding of the mesh.  If it wasn't for this repository, everytime a particle is no longer needed, the mesh would have to be deleted and rebuilt without that particle which takes time.
+
+<b>One texture, many cloud types</b>
+The EZCloud system uses a single texture to save on video ram.  This also keeps the conformity to the single surface system intact.  Each vertex of each particle is merely altered on which area of the texture it is mapped to.  This only happens when a particle is created or pulled from the repository.  
+\par\ql\{bml CloudTemplate.bmp\}\par\ql
+
+<b>Bottlenecks</b>
+The EZCloud system only has one bottleneck which is unfortunate however needed.  With the use of the particle repository and the constant translating of particles in front of the camera, the alpha order gets corrupted.  This means that some particles will seem to be infront of others even though they are physically behind others.  To solve this EZCloud takes all particles which are in view and puts them into a list which is then sorted based on distance from the camera.  The distance calculation is only using 2 axis and since all particles are relative (using the same coordinate system) no square root is used in the calculation.  This makes the distance calculation as fast as it can be.  After the list is created, it is sorted, and then the particles are drawn to the screen in their correct order.  The faster the CPU, the faster this calculation is, however it is still the weak point in this system.  Worst case results on a 2.4 Ghz machine was 2 ms with 2,000 particles being sorted (remember, this list only sorts the particles in view, not the total particles in the system active or in the repository).
+----- SHM ---- page 29 ---- 
+The System must be initialized before it can be used.
+
+This command Initializes the system:
+Cloud_Init(<color=10>Camera</color>)
+
+Where <color=10>Camera</color> is the camera handle you intend to display clouds.
+----- SHM ---- page 30 ---- 
+<jump=SHM_contents0041>Cloud_Init()</jump>
+<jump=SHM_contents0032>Cloud_CreateCloud()</jump>
+<jump=SHM_contents0033>Cloud_CreateParticle()</jump>
+<jump=SHM_contents0055>Cloud_Update()</jump>
+<jump=SHM_contents0045>Cloud_Kill_Particles()</jump>
+<jump=SHM_contents0043>Cloud_Kill_AllParticles()</jump>
+<jump=SHM_contents0042>Cloud_Kill_AllClouds()</jump>
+<jump=SHM_contents0036>Cloud_Get_ParticleCount()</jump>
+<jump=SHM_contents0034>Cloud_Get_Particle()</jump>
+<jump=SHM_contents0040>Cloud_Get_ParticleType()</jump>
+<jump=SHM_contents0039>Cloud_Get_ParticleScale()</jump>
+<jump=SHM_contents0037>Cloud_Get_ParticleFormation()</jump>
+<jump=SHM_contents0035>Cloud_Get_ParticleAlpha()</jump>
+<jump=SHM_contents0038>Cloud_Get_ParticleLOD()</jump>
+<jump=SHM_contents0047>Cloud_Set_CloudFormation()</jump>
+<jump=SHM_contents0051>Cloud_Set_ParticleLOD()</jump>
+<jump=SHM_contents0052>Cloud_Set_ParticlePosition()</jump>
+<jump=SHM_contents0053>Cloud_Set_ParticleScale()</jump>
+<jump=SHM_contents0054>Cloud_Set_ParticleType()</jump>
+<jump=SHM_contents0048>Cloud_Set_ParticleAlpha()</jump>
+<jump=SHM_contents0050>Cloud_Set_ParticleFormation()</jump>
+<jump=SHM_contents0049>Cloud_Set_ParticleColor()</jump>
+<jump=SHM_contents0046>Cloud_LoadCloud()</jump>
+----- SHM ---- page 31 ---- 
+<b>Cloud_CreateCloud( X#, Y#, Z#)</b>
+<boxl><u>Arguments:</u>
+	<i>Required:</i>
+		-none-
+	<i>Optional:</i>
+		X,Y,Z -Position of Cloud (Default to 0)
+<u>Returns:</u>
+	Cloud Object Handle</box>
+
+<b>Description:</b>
+<boxl>This command creates a cloud at the specified world coordinates and returns the cloud object.  The Cloud Object Handle this function returns is used to position, scale, and rotate the cloud in your code.  This object handle is also used for the cloud system to refference this cloud.</box>
+
+<b><u>Sample:</u></b>
+<boxl>Graphics3d(640,480)
+Setbuffer(backbuffer())
+MainCamera = CreateCamera()
+<jump=SHM_contents0041>Cloud_Init</jump>(MainCamera)
+MyCloud = <jump=SHM_contents0032>Cloud_CreateCloud</jump>(0,0,10)
+MyParticle = <jump=SHM_contents0033>Cloud_CreateParticle</jump>(MyCloud)
+While not keydown(1)
+	Rotateentity(MyCloud,0,1,0)
+	<jump=SHM_contents0055>Cloud_Update</jump>()
+	Renderworld()
+	Flip()
+Wend
+End
+<jump=SHM_contents0042>Cloud_Kill_AllClouds</jump>()</box>
+
+<jump=SHM_contents0031>Back To Function List</jump>
+----- SHM ---- page 32 ---- 
+<b>Cloud_CreateParticle( CloudHan, X#, Y#, Z#, T, F#, S#, A#, L )</b>
+<boxl><u>Arguments:</u>
+	<i>Required:</i>
+		CloudHan - Cloud Object Previously created
+	<i>Optional:</i>
+		X,Y,Z - Position (Defaults to 0)
+		T - Particle Type 1-16 (Defaults to 4)
+		F - Formation Value 0-1 (Defaults to 1)
+		S - Particle Size (Defaults to 8)
+		A - Particle Alpha 0-1 (Defaults to 0,7)
+		L - LOD Flag TRUE or FALSE (Defaults to FALSE)
+<u>Returns:</u>
+	Particle Index</box>
+
+<b>Description:</b>
+<boxl>This function will create a particle based on the specified criteria in a specified cloud.  This function returns the Particle Index of this particle in the specified cloud which can be used later to configure the particle in real-time</box>
+
+<b><u>Sample:</u></b>
+<boxl>Graphics3d(640,480)
+Setbuffer(backbuffer())
+MainCamera = CreateCamera()
+<jump=SHM_contents0041>Cloud_Init</jump>(MainCamera)
+MyCloud = <jump=SHM_contents0032>Cloud_CreateCloud</jump>(0,0,10)
+MyParticle = <jump=SHM_contents0033>Cloud_CreateParticle</jump>(MyCloud)
+While not keydown(1)
+	Rotateentity(MyCloud,0,1,0)
+	<jump=SHM_contents0055>Cloud_Update</jump>()
+	Renderworld()
+	Flip()
+Wend
+End
+<jump=SHM_contents0042>Cloud_Kill_AllClouds</jump>()</box>
+
+<jump=SHM_contents0031>Back To Function List</jump>
+----- SHM ---- page 33 ---- 
+<b>Cloud_Get_Particle( CloudHan, Index )</b>
+<boxl><u>Arguments:</u>
+	<i>Required:</i>
+		CloudHan - Cloud Object Handle
+		Index - Index of particle 1 - <jump=SHM_contents0036>Cloud_Get_ParticleCount()</jump>
+	<i>Optional:</i>
+		-none-
+<u>Returns:</u>
+	Particle Object Handle</box>
+
+<b>Description:</b>
+<boxl>This function returns the Particle Object of a specific particle in a cloud.  The particle object is only used for you to reposition, scale, or rotate.  The returned particle object is a Blitz entity</box>
+
+<b><u>Sample:</u></b>
+<boxl>Graphics3d(640,480)
+Setbuffer(backbuffer())
+MainCamera = CreateCamera()
+<jump=SHM_contents0041>Cloud_Init</jump>(MainCamera)
+MyCloud = <jump=SHM_contents0032>Cloud_CreateCloud</jump>(0,0,10)
+MyParticle = <jump=SHM_contents0033>Cloud_CreateParticle</jump>(MyCloud)
+While not keydown(1)
+	ParticleCount = <jump=SHM_contents0036>Cloud_Get_ParticleCount</jump>(MyCloud)
+	For A = 1 to ParticleCount
+		ParticleHandle = <jump=SHM_contents0034>Cloud_Get_Particle</jump>(MyCloud, A)
+		Moveentity(ParticleHandle,0,0,.5)
+	Next
+	Rotateentity(MyCloud,0,1,0)
+	<jump=SHM_contents0055>Cloud_Update</jump>()
+	Renderworld()
+	Flip()
+Wend
+End
+<jump=SHM_contents0042>Cloud_Kill_AllClouds</jump>()</box>
+
+<jump=SHM_contents0031>Back To Function List</jump>
+----- SHM ---- page 34 ---- 
+<b>Cloud_Get_ParticleAlpha#( CloudHan, Index )</b>
+<boxl><u>Arguments:</u>
+	<i>Required:</i>
+		CloudHan - Cloud Object Handle
+		Index - Index of particle 1 - <jump=SHM_contents0036>Cloud_Get_ParticleCount()</jump>
+	<i>Optional:</i>
+		-none-
+<u>Returns:</u>
+	Particle Alpha 0-1</box>
+
+<b>Description:</b>
+<boxl>Returns the Alpha setting of a specific Particle of a specific Cloud</box>
+
+<b><u>Sample:</u></b>
+<boxl>Graphics3d(640,480)
+Setbuffer(backbuffer())
+MainCamera = CreateCamera()
+<jump=SHM_contents0041>Cloud_Init</jump>(MainCamera)
+MyCloud = <jump=SHM_contents0032>Cloud_CreateCloud</jump>(0,0,10)
+MyParticle = <jump=SHM_contents0033>Cloud_CreateParticle</jump>(MyCloud)
+ParticleAlpha#= <jump=SHM_contents0035>Cloud_Get_ParticleAlpha</jump>(MyCloud, MyParticle)
+While not keydown(1)
+	Rotateentity(MyCloud,0,1,0)
+	<jump=SHM_contents0055>Cloud_Update</jump>()
+	Renderworld()
+	Flip()
+	text 0,0,"Particle Alpha:"+ParticleAlpha#
+Wend
+End
+<jump=SHM_contents0042>Cloud_Kill_AllClouds</jump>()</box>
+
+<jump=SHM_contents0031>Back To Function List</jump>
+----- SHM ---- page 35 ---- 
+<b>Cloud_Get_ParticleCount(CloudHan)</b>
+<boxl><u>Arguments:</u>
+	<i>Required:</i>
+		CloudHan - Cloud Object Handle
+	<i>Optional:</i>
+		-none-
+<u>Returns:</u>
+	Number of Particles</box>
+
+<b>Description:</b>
+<boxl>Returns the number of particles in a specified cloud</box>
+
+<b><u>Sample:</u></b>
+<boxl>Graphics3d(640,480)
+Setbuffer(backbuffer())
+MainCamera = CreateCamera()
+<jump=SHM_contents0041>Cloud_Init</jump>(MainCamera)
+MyCloud = <jump=SHM_contents0032>Cloud_CreateCloud</jump>(0,0,10)
+MyParticle = <jump=SHM_contents0033>Cloud_CreateParticle</jump>(MyCloud)
+While not keydown(1)
+	ParticleCount = <jump=SHM_contents0036>Cloud_Get_ParticleCount</jump>(MyCloud)
+	For A = 1 to ParticleCount
+		ParticleHandle = <jump=SHM_contents0034>Cloud_Get_Particle</jump>(MyCloud, A)
+		Moveentity(ParticleHandle,0,0,.5)
+	Next
+	Rotateentity(MyCloud,0,1,0)
+	<jump=SHM_contents0055>Cloud_Update</jump>()
+	Renderworld()
+	Flip()
+Wend
+End
+<jump=SHM_contents0042>Cloud_Kill_AllClouds</jump>()</box>
+
+<jump=SHM_contents0031>Back To Function List</jump>
+----- SHM ---- page 36 ---- 
+<b>Cloud_Get_ParticleFormation#( CloudHan, Index )</b>
+<boxl><u>Arguments:</u>
+	<i>Required:</i>
+		CloudHan - Cloud Object Handle
+		Index - Index of particle 1 - <jump=SHM_contents0036>Cloud_Get_ParticleCount()</jump>
+	<i>Optional:</i>
+		-none-
+<u>Returns:</u>
+	Particle Formation Value 0-1</box>
+
+<b>Description:</b>
+<boxl>Returns theFormation setting of a specific Particle of a specific Cloud</box>
+
+<b><u>Sample:</u></b>
+<boxl>Graphics3d(640,480)
+Setbuffer(backbuffer())
+MainCamera = CreateCamera()
+<jump=SHM_contents0041>Cloud_Init</jump>(MainCamera)
+MyCloud = <jump=SHM_contents0032>Cloud_CreateCloud</jump>(0,0,10)
+MyParticle = <jump=SHM_contents0033>Cloud_CreateParticle</jump>(MyCloud)
+PF#= <jump=SHM_contents0037>Cloud_Get_ParticleFormation</jump>(MyCloud, MyParticle)
+While not keydown(1)
+	Rotateentity(MyCloud,0,1,0)
+	<jump=SHM_contents0055>Cloud_Update</jump>()
+	Renderworld()
+	Flip()
+	text 0,0,"Particle Formation:"+PF#
+Wend
+End
+<jump=SHM_contents0042>Cloud_Kill_AllClouds</jump>()</box>
+
+<jump=SHM_contents0031>Back To Function List</jump>
+----- SHM ---- page 37 ---- 
+<b>Cloud_Get_ParticleLOD#( CloudHan, Index )</b>
+<boxl><u>Arguments:</u>
+	<i>Required:</i>
+		CloudHan - Cloud Object Handle
+		Index - Index of particle 1 - <jump=SHM_contents0036>Cloud_Get_ParticleCount()</jump>
+	<i>Optional:</i>
+		-none-
+<u>Returns:</u>
+	Particle LOD Value True or False</box>
+
+<b>Description:</b>
+<boxl>Returns the LOD setting of a specific Particle of a specific Cloud</box>
+
+<b><u>Sample:</u></b>
+<boxl>Graphics3d(640,480)
+Setbuffer(backbuffer())
+MainCamera = CreateCamera()
+<jump=SHM_contents0041>Cloud_Init</jump>(MainCamera)
+MyCloud = <jump=SHM_contents0032>Cloud_CreateCloud</jump>(0,0,10)
+MyParticle = <jump=SHM_contents0033>Cloud_CreateParticle</jump>(MyCloud)
+PF= <jump=SHM_contents0038>Cloud_Get_ParticleLOD</jump>(MyCloud, MyParticle)
+While not keydown(1)
+	Rotateentity(MyCloud,0,1,0)
+	<jump=SHM_contents0055>Cloud_Update</jump>()
+	Renderworld()
+	Flip()
+	text 0,0,"Particle LOD:"+PF
+Wend
+End
+<jump=SHM_contents0042>Cloud_Kill_AllClouds</jump>()</box>
+
+<jump=SHM_contents0031>Back To Function List</jump>
+----- SHM ---- page 38 ---- 
+<b>Cloud_Get_ParticleScale#( CloudHan, Index )</b>
+<boxl><u>Arguments:</u>
+	<i>Required:</i>
+		CloudHan - Cloud Object Handle
+		Index - Index of particle 1 - <jump=SHM_contents0036>Cloud_Get_ParticleCount()</jump>
+	<i>Optional:</i>
+		-none-
+<u>Returns:</u>
+	Particle Scale Value</box>
+
+<b>Description:</b>
+<boxl>Returns the Scale setting of a specific Particle of a specific Cloud</box>
+
+<b><u>Sample:</u></b>
+<boxl>Graphics3d(640,480)
+Setbuffer(backbuffer())
+MainCamera = CreateCamera()
+<jump=SHM_contents0041>Cloud_Init</jump>(MainCamera)
+MyCloud = <jump=SHM_contents0032>Cloud_CreateCloud</jump>(0,0,10)
+MyParticle = <jump=SHM_contents0033>Cloud_CreateParticle</jump>(MyCloud)
+PF#= <jump=SHM_contents0039>Cloud_Get_ParticleScale</jump>(MyCloud, MyParticle)
+While not keydown(1)
+	Rotateentity(MyCloud,0,1,0)
+	<jump=SHM_contents0055>Cloud_Update</jump>()
+	Renderworld()
+	Flip()
+	text 0,0,"Particle Scale:"+PF#
+Wend
+End
+<jump=SHM_contents0042>Cloud_Kill_AllClouds</jump>()</box>
+
+<jump=SHM_contents0031>Back To Function List</jump>
+----- SHM ---- page 39 ---- 
+<b>Cloud_Get_ParticleType(CloudHan, Index )</b>
+<boxl><u>Arguments:</u>
+	<i>Required:</i>
+		CloudHan - Cloud Object Handle
+		Index - Index of particle 1 - <jump=SHM_contents0036>Cloud_Get_ParticleCount()</jump>
+	<i>Optional:</i>
+		-none-
+<u>Returns:</u>
+	Particle Type Value 1-16</box>
+
+<b>Description:</b>
+<boxl>Returns the Type setting of a specific Particle of a specific Cloud</box>
+
+<b><u>Sample:</u></b>
+<boxl>Graphics3d(640,480)
+Setbuffer(backbuffer())
+MainCamera = CreateCamera()
+<jump=SHM_contents0041>Cloud_Init</jump>(MainCamera)
+MyCloud = <jump=SHM_contents0032>Cloud_CreateCloud</jump>(0,0,10)
+MyParticle = <jump=SHM_contents0033>Cloud_CreateParticle</jump>(MyCloud)
+PF= <jump=SHM_contents0040>Cloud_Get_ParticleType</jump>(MyCloud, MyParticle)
+While not keydown(1)
+	Rotateentity(MyCloud,0,1,0)
+	<jump=SHM_contents0055>Cloud_Update</jump>()
+	Renderworld()
+	Flip()
+	text 0,0,"Particle Type:"+PF
+Wend
+End
+<jump=SHM_contents0042>Cloud_Kill_AllClouds</jump>()</box>
+
+<jump=SHM_contents0031>Back To Function List</jump>
+----- SHM ---- page 40 ---- 
+<b>Cloud_Init( Camera )</b>
+<boxl><u>Arguments:</u>
+	<i>Required:</i>
+		Camera - Camera Handle
+	<i>Optional:</i>
+		-none-
+<u>Returns:</u>
+	-none-</box>
+
+<b>Description:</b>
+<boxl>Initializes the Cloud system for a specific Camera</box>
+
+<b><u>Sample:</u></b>
+<boxl>Graphics3d(640,480)
+Setbuffer(backbuffer())
+MainCamera = CreateCamera()
+<jump=SHM_contents0041>Cloud_Init</jump>(MainCamera)
+MyCloud = <jump=SHM_contents0032>Cloud_CreateCloud</jump>(0,0,10)
+MyParticle = <jump=SHM_contents0033>Cloud_CreateParticle</jump>(MyCloud)
+While not keydown(1)
+	Rotateentity(MyCloud,0,1,0)
+	<jump=SHM_contents0055>Cloud_Update</jump>()
+	Renderworld()
+	Flip()
+Wend
+End
+<jump=SHM_contents0042>Cloud_Kill_AllClouds</jump>()</box>
+
+<jump=SHM_contents0031>Back To Function List</jump>
+----- SHM ---- page 41 ---- 
+<b>Cloud_Kill_AllClouds()</b>
+<boxl><u>Arguments:</u>
+	<i>Required:</i>
+		-none-
+	<i>Optional:</i>
+		-none-
+<u>Returns:</u>
+	-none-</box>
+
+<b>Description:</b>
+<boxl>Kills all Clouds in the Cloud System</box>
+
+<b><u>Sample:</u></b>
+<boxl>Graphics3d(640,480)
+Setbuffer(backbuffer())
+MainCamera = CreateCamera()
+<jump=SHM_contents0041>Cloud_Init</jump>(MainCamera)
+MyCloud = <jump=SHM_contents0032>Cloud_CreateCloud</jump>(0,0,10)
+MyParticle = <jump=SHM_contents0033>Cloud_CreateParticle</jump>(MyCloud)
+While not keydown(1)
+	Rotateentity(MyCloud,0,1,0)
+	<jump=SHM_contents0055>Cloud_Update</jump>()
+	Renderworld()
+	Flip()
+Wend
+End
+<jump=SHM_contents0042>Cloud_Kill_AllClouds</jump>()</box>
+
+<jump=SHM_contents0031>Back To Function List</jump>
+----- SHM ---- page 42 ---- 
+<b>Cloud_Kill_AllParticles( CloudHan )</b>
+<boxl><u>Arguments:</u>
+	<i>Required:</i>
+		CloudHan - Cloud Object
+	<i>Optional:</i>
+		-none-
+<u>Returns:</u>
+	-none-</box>
+
+<b>Description:</b>
+<boxl>Kills all Particles of a specific Cloud</box>
+
+<b><u>Sample:</u></b>
+<boxl>Graphics3d(640,480)
+Setbuffer(backbuffer())
+MainCamera = CreateCamera()
+<jump=SHM_contents0041>Cloud_Init</jump>(MainCamera)
+MyCloud = <jump=SHM_contents0032>Cloud_CreateCloud</jump>(0,0,10)
+MyParticle = <jump=SHM_contents0033>Cloud_CreateParticle</jump>(MyCloud)
+While not keydown(1)
+	Rotateentity(MyCloud,0,1,0)
+	<jump=SHM_contents0055>Cloud_Update</jump>()
+	Renderworld()
+	Flip()
+Wend
+End
+<jump=SHM_contents0043>Cloud_Kill_AllParticles</jump>( MyCloud)
+<jump=SHM_contents0042>Cloud_Kill_AllClouds</jump>()</box>
+
+<jump=SHM_contents0031>Back To Function List</jump>
+----- SHM ---- page 43 ---- 
+<b>Cloud_Kill_Cloud( CloudHan )</b>
+<boxl><u>Arguments:</u>
+	<i>Required:</i>
+		CloudHan - Cloud Object
+	<i>Optional:</i>
+		-none-
+<u>Returns:</u>
+	-none-</box>
+
+<b>Description:</b>
+<boxl>Kills a single cloud and it's particles</box>
+
+<b><u>Sample:</u></b>
+<boxl>Graphics3d(640,480)
+Setbuffer(backbuffer())
+MainCamera = CreateCamera()
+<jump=SHM_contents0041>Cloud_Init</jump>(MainCamera)
+MyCloud = <jump=SHM_contents0032>Cloud_CreateCloud</jump>(0,0,10)
+MyParticle = <jump=SHM_contents0033>Cloud_CreateParticle</jump>(MyCloud)
+While not keydown(1)
+	Rotateentity(MyCloud,0,1,0)
+	<jump=SHM_contents0055>Cloud_Update</jump>()
+	Renderworld()
+	Flip()
+Wend
+End
+<jump=SHM_contents0044>Cloud_Kill_Cloud(MyCloud)</jump>()</box>
+
+<jump=SHM_contents0031>Back To Function List</jump>
+----- SHM ---- page 44 ---- 
+<b>Cloud_Kill_Particles( CloudHan, Num )</b>
+<boxl><u>Arguments:</u>
+	<i>Required:</i>
+		CloudHan - Cloud Object
+		Num - Number of particles to kill in the cloud
+	<i>Optional:</i>
+		-none-
+<u>Returns:</u>
+	-none-</box>
+
+<b>Description:</b>
+<boxl>Kills a specified number of particles in a cloud</box>
+
+<b><u>Sample:</u></b>
+<boxl>Graphics3d(640,480)
+Setbuffer(backbuffer())
+MainCamera = CreateCamera()
+<jump=SHM_contents0041>Cloud_Init</jump>(MainCamera)
+MyCloud = <jump=SHM_contents0032>Cloud_CreateCloud</jump>(0,0,10)
+For A = 1 to 100
+	<jump=SHM_contents0033>Cloud_CreateParticle</jump>(MyCloud)
+Next
+<jump=SHM_contents0045>Cloud_Kill_Particles</jump>(MyCloud,50)
+Num = <jump=SHM_contents0036>Cloud_Get_ParticleCount</jump>(MyCloud)
+While not keydown(1)
+	Rotateentity(MyCloud,0,1,0)
+	<jump=SHM_contents0055>Cloud_Update</jump>()
+	Renderworld()
+	text 0,0,"Cloud particles:"+Num
+	Flip()
+Wend
+End
+<jump=SHM_contents0044>Cloud_Kill_Cloud(MyCloud)</jump>()</box>
+
+<jump=SHM_contents0031>Back To Function List</jump>
+----- SHM ---- page 45 ---- 
+<b>Cloud_LoadCloud( FileName$ )</b>
+<boxl><u>Arguments:</u>
+	<i>Required:</i>
+		FileName - Name of a cloud file
+	<i>Optional:</i>
+		-none-
+<u>Returns:</u>
+	-none-</box>
+
+<b>Description:</b>
+<boxl>Loads one (or more) clouds from a cloud file.  If there are more than one cloud in a file, it will load them all.</box>
+
+<b><u>Sample:</u></b>
+<boxl>Graphics3d(640,480)
+Setbuffer(backbuffer())
+MainCamera = CreateCamera()
+<jump=SHM_contents0041>Cloud_Init</jump>(MainCamera)
+<jump=SHM_contents0046>Coud_LoadCloud</jump>("TestCloud.clf")
+While not keydown(1)
+	<jump=SHM_contents0055>Cloud_Update</jump>()
+	Renderworld()
+	text 0,0,"Cloud particles:"+Num
+	Flip()
+Wend
+End
+<jump=SHM_contents0042>Cloud_Kill_AllClouds</jump>()</box>
+
+<jump=SHM_contents0031>Back To Function List</jump>
+----- SHM ---- page 46 ---- 
+<b>Cloud_Set_CloudFormation(CloudHan,F#)</b>
+<boxl><u>Arguments:</u>
+	<i>Required:</i>
+		CloudHan - Cloud Object Handle
+		F - Formation value of cloud 0-1
+	<i>Optional:</i>
+		-none-
+<u>Returns:</u>
+	-none-</box>
+
+<b>Description:</b>
+<boxl>You can have clouds formate or dissapate.  When you formate a cloud, the outer most particles are alphaed first and then on to the inner ones.  The formation index of a particle is set by <jump=SHM_contents0050>Cloud_Set_ParticleFormation</jump>()</box>
+
+<b><u>Sample:</u></b>
+<boxl>Graphics3d(640,480)
+Setbuffer(backbuffer())
+MainCamera = CreateCamera()
+<jump=SHM_contents0041>Cloud_Init</jump>(MainCamera)
+MyCloud = <jump=SHM_contents0032>Cloud_CreateCloud</jump>(0,0,10)
+MyParticle = <jump=SHM_contents0033>Cloud_CreateParticle</jump>(MyCloud)
+While not keydown(1)
+	Rotateentity(MyCloud,0,1,0)
+	<jump=SHM_contents0047>Cloud_Set_CloudFormation</jump>(MyCloud, .5)
+	<jump=SHM_contents0055>Cloud_Update</jump>()
+	Renderworld()
+	Flip()
+Wend
+End
+<jump=SHM_contents0042>Cloud_Kill_AllClouds</jump>()</box>
+
+<jump=SHM_contents0031>Back To Function List</jump>
+----- SHM ---- page 47 ---- 
+<b>Cloud_Set_ParticleAlpha(CloudHan, Index,A#)</b>
+<boxl><u>Arguments:</u>
+	<i>Required:</i>
+		CloudHan - Cloud Object Handle
+		Index - Index of particle 1 - <jump=SHM_contents0036>Cloud_Get_ParticleCount()</jump>
+		A - Alpha Vlue for this particle 0-1
+	<i>Optional:</i>
+		-none-
+<u>Returns:</u>
+	-none-</box>
+
+<b>Description:</b>
+<boxl>You can set each particle's alpha individually in real-time with this function.</box>
+
+<b><u>Sample:</u></b>
+<boxl>Graphics3d(640,480)
+Setbuffer(backbuffer())
+MainCamera = CreateCamera()
+<jump=SHM_contents0041>Cloud_Init</jump>(MainCamera)
+MyCloud = <jump=SHM_contents0032>Cloud_CreateCloud</jump>(0,0,10)
+MyParticle = <jump=SHM_contents0033>Cloud_CreateParticle</jump>(MyCloud)
+<jump=SHM_contents0048>Cloud_Set_PArticleAlpha</jump>(MyCloud,MyParticle,.3)
+While not keydown(1)
+	Rotateentity(MyCloud,0,1,0)
+	<jump=SHM_contents0055>Cloud_Update</jump>()
+	Renderworld()
+	Flip()
+Wend
+End
+<jump=SHM_contents0042>Cloud_Kill_AllClouds</jump>()</box>
+
+<jump=SHM_contents0031>Back To Function List</jump>
+----- SHM ---- page 48 ---- 
+<b>Cloud_Set_ParticleColor(CloudHan, Index, Corner, CR, CG, CB )</b>
+<boxl><u>Arguments:</u>
+	<i>Required:</i>
+		CloudHan - Cloud Object Handle
+		Index - Index of particle 1 - <jump=SHM_contents0036>Cloud_Get_ParticleCount()</jump>
+		Corner - Which corner of the particle quad to set 0-4
+		CR,CG,CB - Color index RED,GREEN, and BLUE
+	<i>Optional:</i>
+		-none-
+<u>Returns:</u>
+	-none-</box>
+
+<b>Description:</b>
+<boxl>You can set each particle's color individually in real-time with this function.</box>
+
+<b><u>Sample:</u></b>
+<boxl>Graphics3d(640,480)
+Setbuffer(backbuffer())
+MainCamera = CreateCamera()
+<jump=SHM_contents0041>Cloud_Init</jump>(MainCamera)
+MyCloud = <jump=SHM_contents0032>Cloud_CreateCloud</jump>(0,0,10)
+MyParticle = <jump=SHM_contents0033>Cloud_CreateParticle</jump>(MyCloud)
+<jump=SHM_contents0049>Cloud_Set_PArticleColor</jump>(MyCloud,MyParticle,0,0,0,0)
+While not keydown(1)
+	Rotateentity(MyCloud,0,1,0)
+	<jump=SHM_contents0055>Cloud_Update</jump>()
+	Renderworld()
+	Flip()
+Wend
+End
+<jump=SHM_contents0042>Cloud_Kill_AllClouds</jump>()</box>
+
+<jump=SHM_contents0031>Back To Function List</jump>
+----- SHM ---- page 49 ---- 
+<b>Cloud_Set_ParticleFormation( CloudHan, Index, F# )</b>
+<boxl><u>Arguments:</u>
+	<i>Required:</i>
+		CloudHan - Cloud Object Handle
+		Index - Index of particle 1 - <jump=SHM_contents0036>Cloud_Get_ParticleCount()</jump>
+		F - Formation Vlue for this particle 0-1
+	<i>Optional:</i>
+		-none-
+<u>Returns:</u>
+	-none-</box>
+
+<b>Description:</b>
+<boxl>Particle formation values are how to tell the cloud system how far out this particle is from the center of the cloud.  When you set the <jump=SHM_contents0047>Cloud_Set_CloudFormation</jump>() this will dissapate or formate the cloud based on how far away each partcle is from the center of the cloud.  The further away from the center, the quicker it reacts to the cloud formation/dissapation</box>
+
+<b><u>Sample:</u></b>
+<boxl>Graphics3d(640,480)
+Setbuffer(backbuffer())
+MainCamera = CreateCamera()
+<jump=SHM_contents0041>Cloud_Init</jump>(MainCamera)
+MyCloud = <jump=SHM_contents0032>Cloud_CreateCloud</jump>(0,0,10)
+MyParticle = <jump=SHM_contents0033>Cloud_CreateParticle</jump>(MyCloud)
+<jump=SHM_contents0050>Cloud_Set_PArticleFormation</jump>(MyCloud,MyParticle,1)
+While not keydown(1)
+	Rotateentity(MyCloud,0,1,0)
+	<jump=SHM_contents0055>Cloud_Update</jump>()
+	Renderworld()
+	Flip()
+Wend
+End
+<jump=SHM_contents0042>Cloud_Kill_AllClouds</jump>()</box>
+
+<jump=SHM_contents0031>Back To Function List</jump>
+----- SHM ---- page 50 ---- 
+<b>Cloud_Set_ParticleLOD( CloudHan, Index, LOD)</b>
+<boxl><u>Arguments:</u>
+	<i>Required:</i>
+		CloudHan - Cloud Object Handle
+		Index - Index of particle 1 - <jump=SHM_contents0036>Cloud_Get_ParticleCount()</jump>
+		LOD - LOD Flag True or False
+	<i>Optional:</i>
+		-none-
+<u>Returns:</u>
+	-none-</box>
+
+<b>Description:</b>
+<boxl>The particle LOD system is responsive to the individual particle LOD flags.  When a particle is set to LOD, then the camera must be outside the LOD threshold for this particle to be visible.</box>
+
+<b><u>Sample:</u></b>
+<boxl>Graphics3d(640,480)
+Setbuffer(backbuffer())
+MainCamera = CreateCamera()
+<jump=SHM_contents0041>Cloud_Init</jump>(MainCamera)
+MyCloud = <jump=SHM_contents0032>Cloud_CreateCloud</jump>(0,0,10)
+MyParticle = <jump=SHM_contents0033>Cloud_CreateParticle</jump>(MyCloud)
+<jump=SHM_contents0051>Cloud_Set_PArticleLOD</jump>(MyCloud,MyParticle,1)
+While not keydown(1)
+	Rotateentity(MyCloud,0,1,0)
+	<jump=SHM_contents0055>Cloud_Update</jump>()
+	Renderworld()
+	Flip()
+Wend
+End
+<jump=SHM_contents0042>Cloud_Kill_AllClouds</jump>()</box>
+
+<jump=SHM_contents0031>Back To Function List</jump>
+----- SHM ---- page 51 ---- 
+<b>Cloud_Set_ParticlePosition( CloudHan, Index, X#,Y#,Z#)</b>
+<boxl><u>Arguments:</u>
+	<i>Required:</i>
+		CloudHan - Cloud Object Handle
+		Index - Index of particle 1 - <jump=SHM_contents0036>Cloud_Get_ParticleCount()</jump>
+		X,Y,Z - Position coordinates relative to the cloud position
+	<i>Optional:</i>
+		-none-
+<u>Returns:</u>
+	-none-</box>
+
+<b>Description:</b>
+<boxl>Another way of positioning individual particles outside of getting the particle object handle is to use this command.  Remember that the coordinates are relative to the cloud position</box>
+
+<b><u>Sample:</u></b>
+<boxl>Graphics3d(640,480)
+Setbuffer(backbuffer())
+MainCamera = CreateCamera()
+<jump=SHM_contents0041>Cloud_Init</jump>(MainCamera)
+MyCloud = <jump=SHM_contents0032>Cloud_CreateCloud</jump>(0,0,10)
+MyParticle = <jump=SHM_contents0033>Cloud_CreateParticle</jump>(MyCloud)
+<jump=SHM_contents0052>Cloud_Set_PArticlePosition</jump>(MyCloud,MyParticle,1,2,3)
+While not keydown(1)
+	Rotateentity(MyCloud,0,1,0)
+	<jump=SHM_contents0055>Cloud_Update</jump>()
+	Renderworld()
+	Flip()
+Wend
+End
+<jump=SHM_contents0042>Cloud_Kill_AllClouds</jump>()</box>
+
+<jump=SHM_contents0031>Back To Function List</jump>
+----- SHM ---- page 52 ---- 
+<b>Cloud_Set_ParticleScale( CloudHan, Index, Scale#)</b>
+<boxl><u>Arguments:</u>
+	<i>Required:</i>
+		CloudHan - Cloud Object Handle
+		Index - Index of particle 1 - <jump=SHM_contents0036>Cloud_Get_ParticleCount()</jump>
+		Scale - Size of particle 0-whatever
+	<i>Optional:</i>
+		-none-
+<u>Returns:</u>
+	-none-</box>
+
+<b>Description:</b>
+<boxl>This sets the scale size of a particle</box>
+
+<b><u>Sample:</u></b>
+<boxl>Graphics3d(640,480)
+Setbuffer(backbuffer())
+MainCamera = CreateCamera()
+<jump=SHM_contents0041>Cloud_Init</jump>(MainCamera)
+MyCloud = <jump=SHM_contents0032>Cloud_CreateCloud</jump>(0,0,10)
+MyParticle = <jump=SHM_contents0033>Cloud_CreateParticle</jump>(MyCloud)
+<jump=SHM_contents0053>Cloud_Set_PArticleScale</jump>(MyCloud,MyParticle,5)
+While not keydown(1)
+	Rotateentity(MyCloud,0,1,0)
+	<jump=SHM_contents0055>Cloud_Update</jump>()
+	Renderworld()
+	Flip()
+Wend
+End
+<jump=SHM_contents0042>Cloud_Kill_AllClouds</jump>()</box>
+
+<jump=SHM_contents0031>Back To Function List</jump>
+----- SHM ---- page 53 ---- 
+<b>Cloud_Set_ParticleType( CloudHan, Index, T)</b>
+<boxl><u>Arguments:</u>
+	<i>Required:</i>
+		CloudHan - Cloud Object Handle
+		Index - Index of particle 1 - <jump=SHM_contents0036>Cloud_Get_ParticleCount()</jump>
+		T - Type to set particle to 1-16
+	<i>Optional:</i>
+		-none-
+<u>Returns:</u>
+	-none-</box>
+
+<b>Description:</b>
+<boxl>Sets which texture to render on particle 1-16</box>
+
+<b><u>Sample:</u></b>
+<boxl>Graphics3d(640,480)
+Setbuffer(backbuffer())
+MainCamera = CreateCamera()
+<jump=SHM_contents0041>Cloud_Init</jump>(MainCamera)
+MyCloud = <jump=SHM_contents0032>Cloud_CreateCloud</jump>(0,0,10)
+MyParticle = <jump=SHM_contents0033>Cloud_CreateParticle</jump>(MyCloud)
+<jump=SHM_contents0054>Cloud_Set_PArticletype</jump>(MyCloud,MyParticle,5)
+While not keydown(1)
+	Rotateentity(MyCloud,0,1,0)
+	<jump=SHM_contents0055>Cloud_Update</jump>()
+	Renderworld()
+	Flip()
+Wend
+End
+<jump=SHM_contents0042>Cloud_Kill_AllClouds</jump>()</box>
+
+<jump=SHM_contents0031>Back To Function List</jump>
+----- SHM ---- page 54 ---- 
+<b>Cloud_Update()</b>
+<boxl><u>Arguments:</u>
+	<i>Required:</i>
+		-none-
+	<i>Optional:</i>
+		-none-
+<u>Returns:</u>
+	Cloud Object Handle</box>
+
+<b>Description:</b>
+<boxl>This command updates the cloud system.  This should be done after all camera movements have been made and prior to the renderworld command.</box>
+
+<b><u>Sample:</u></b>
+<boxl>Graphics3d(640,480)
+Setbuffer(backbuffer())
+MainCamera = CreateCamera()
+<jump=SHM_contents0041>Cloud_Init</jump>(MainCamera)
+MyCloud = <jump=SHM_contents0032>Cloud_CreateCloud</jump>(0,0,10)
+MyParticle = <jump=SHM_contents0033>Cloud_CreateParticle</jump>(MyCloud)
+While not keydown(1)
+	Rotateentity(MyCloud,0,1,0)
+	<jump=SHM_contents0055>Cloud_Update</jump>()
+	Renderworld()
+	Flip()
+Wend
+End
+<jump=SHM_contents0042>Cloud_Kill_AllClouds</jump>()</box>
+
+<jump=SHM_contents0031>Back To Function List</jump>
+----- SHM ---- page 55 ---- 
+<jump=SHM_contents0057>Cloud_Cam</jump>
+<jump=SHM_contents0058>Cloud_SysActive</jump>
+<jump=SHM_contents0059>Cloud_MaxVerticies</jump>
+<jump=SHM_contents0060>Cloud_ActiveParticles</jump>
+<jump=SHM_contents0061>Cloud_TotalParticles</jump>
+<jump=SHM_contents0062>Cloud_LODActive</jump>
+<jump=SHM_contents0063>Cloud_LODDistance</jump>
+<jump=SHM_contents0064>Cloud_TemplateFile</jump>
+<jump=SHM_contents0065>Cloud_Object</jump>
+----- SHM ---- page 56 ---- 
+Cloud_Cam
+
+This holds the Handle of the camera used for the Cloud System.  This cannot be change to another camera while the cloud system is active.
+
+<jump=SHM_contents0056>Back To Global List</jump>
+----- SHM ---- page 57 ---- 
+Cloud_SysActive
+
+This is True if the Cloud System is active, False if it isn't.  If you have initialized the system, this goes to True.
+
+<jump=SHM_contents0056>Back To Global List</jump>
+----- SHM ---- page 58 ---- 
+Cloud_MaxVerticies
+
+Holds the max number of verticies per surface that the cloud system can use.  Some video cards might not support higher than 10,000 verticies per surface, some might.  This is set to 50,000 by default.  
+
+Changing this changes how the cloud system allocates particles.  Currently, if the cloud system allocates more than 50,000 verticies on it's current surface, it will add another surface to add more particles.  Although, this changes the system to a non-single surface system, however going over 50,000 verticies means that the particle count (Active particles) is above 12,500 particles/polygons.  If your system can handle more than this, then by all means let it go higher, however letting the system add more surfaces to keep the system compadible with lower end cards is your buisness :-)
+
+<jump=SHM_contents0056>Back To Global List</jump>
+----- SHM ---- page 59 ---- 
+Cloud_ActiveParticles
+
+Simply has the number of ACTIVE particles on the screen (particles that are being drawn and thus sorted).
+
+<jump=SHM_contents0056>Back To Global List</jump>
+----- SHM ---- page 60 ---- 
+Cloud_TotalParticles
+
+Has the total number of particles in the system (active, inactive, in the repository).  If particles are in the repository that means they don't need to be created when the cloud system is looking for more particles to display.  To get the total number of particles in the repository simply take Cloud_TotalParticles-<jump=SHM_contents0060>Cloud_ActiveParticles</jump>.
+
+<jump=SHM_contents0056>Back To Global List</jump>
+----- SHM ---- page 61 ---- 
+Cloud_LODActive
+
+Setting this to TRUE will activate the cloud system's LOD system.  The LOD system, when active, displays all particles with the <jump=SHM_contents0051>non-lod flag</jump> when the camera is within the <jump=SHM_contents0063>LOD distance threshold</jump>.  The LOD system, when active, will then display all <jump=SHM_contents0051>LOD-flagged</jump> particles when it is outside the <jump=SHM_contents0063>LOD distance threshold</jump>.
+
+<jump=SHM_contents0056>Back To Global List</jump>
+----- SHM ---- page 62 ---- 
+Cloud_LODDistance
+
+This sets the LOD Distance Threshold of the <jump=SHM_contents0005>LOD System</jump>.  This is set to 500 by default, meaning the distance between the Camera and Cloud must be greater than 500 in order for the <jump=SHM_contents0051>LOD-flagged </jump>particles to be displayed and the <jump=SHM_contents0051>Non-LOD-Flagged </jump>particles to be hidden.  This only affects the system when the <jump=SHM_contents0062>LOD system is active</jump>.
+
+<jump=SHM_contents0056>Back To Global List</jump>
+----- SHM ---- page 63 ---- 
+Cloud_TemplateFile$
+
+This var holds the Cloud Data Pack which has our Cloud Textures stored in it.  It is set to 'cloudpack.ctp' by default.  This means that the cloudpack.ctp file must be in the working directory of your application.  This var is set for you to use incase you want to rename the cloudpack.ctp file or store it somewhere else in the system.  Simply change this var to the directory/path of the cloudpack.ctp file.
+
+<jump=SHM_contents0056>Back To Global List</jump>
+----- SHM ---- page 64 ---- 
+Cloud_Object
+
+This is a General Blitz Entity that you may find yourself using alot.  What this does is it has all the clouds parented to it.  This means that if you <jump=SHM_contents0046>load a cloud file</jump> and are unsure how many clouds where loaded that you can do a count children on this entity to find all the clouds in the system.  Each child of this entity is a cloud in the EZCloud system, and thus can be used as a normal <jump=SHM_contents0032>Cloud Handle Object.</jump>  
+
+Also, you can use this object to modify every cloud position/scale/rotation at once.  This object won't refference all the clouds in the cloud functions, however since it is a blitz entity it can have most of the blitz commands used on it (think of it as a pivot ;-)
+
+<jump=SHM_contents0056>Back To Global List</jump>
+----- SHM ---- page 65 ---- 
+Some basic EZCloud tutorials using EZCloud Builder.
+
+
+Throughout revisions and updates more tutorials will be added.

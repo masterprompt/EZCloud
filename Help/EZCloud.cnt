@@ -1,0 +1,87 @@
+:Base EZCloud.hlp
+:Title EZCloud Builder
+:Index dummy=dummy.hlp ;(This is necessary when using KLinks - because of a bug in the help
+:Link dummy.hlp        ; compiler. Without this only the first keyword would be looked up!)
+1 EZCloud Index=SHM_contents9999@EZCloud.hlp
+1 Using The EZCloud Builder
+1 Getting Started
+2 Welcome to EZCloud=SHM_contents0001@EZCloud.hlp
+2 Requirements=SHM_contents0002@EZCloud.hlp
+2 Troubleshooting=SHM_contents0003@EZCloud.hlp
+2 EZCloud Builder Version History=SHM_contents0004@EZCloud.hlp
+2 EZCloud Version History=SHM_contents0005@EZCloud.hlp
+2 Camera Control
+3 Camera Control Basics=SHM_contents0006@EZCloud.hlp
+2 LOD System
+3 Understanding the LOD system=SHM_contents0007@EZCloud.hlp
+2 Configuring The Viewport
+3 EZCloud Menu=SHM_contents0008@EZCloud.hlp
+3 Showing Cloud Groups=SHM_contents0009@EZCloud.hlp
+3 Enabling the LOD system=SHM_contents0010@EZCloud.hlp
+3 Enabling the Grid=SHM_contents0011@EZCloud.hlp
+3 Changing the Colors=SHM_contents0012@EZCloud.hlp
+2 Cloud Groups
+3 Understanding Cloud Groups=SHM_contents0013@EZCloud.hlp
+3 Understanding System Metrics=SHM_contents0014@EZCloud.hlp
+3 Group Properties
+4 Changing Cloud Properties=SHM_contents0015@EZCloud.hlp
+4 Cloud Type=SHM_contents0016@EZCloud.hlp
+4 Particle Count=SHM_contents0017@EZCloud.hlp
+4 Particle Size=SHM_contents0018@EZCloud.hlp
+4 Particle Alpha=SHM_contents0019@EZCloud.hlp
+4 LOD=SHM_contents0020@EZCloud.hlp
+4 Particle Color=SHM_contents0021@EZCloud.hlp
+4 Particle Regeneration=SHM_contents0022@EZCloud.hlp
+3 Creating, Selecting, Positioning, and Scaling
+4 Creating Cloud Groups=SHM_contents0023@EZCloud.hlp
+4 Selecting Groups=SHM_contents0024@EZCloud.hlp
+4 Moving Groups=SHM_contents0025@EZCloud.hlp
+4 Scaling Groups=SHM_contents0026@EZCloud.hlp
+2 Opening, Saving, and Merging Cloud Files
+3 Opening and Merging Cloud Groups=SHM_contents0027@EZCloud.hlp
+3 Saving Cloud Groups=SHM_contents0028@EZCloud.hlp
+2 Exporting Clouds
+3 Exporting a Single Cloud=SHM_contents0029@EZCloud.hlp
+3 Exporting Multiple Clouds=SHM_contents0030@EZCloud.hlp
+1 Using The EZCloud System
+2 Understanding The EZCloud System=SHM_contents0031@EZCloud.hlp
+2 Starting the System=SHM_contents0032@EZCloud.hlp
+2 System Functions
+3 Function List=SHM_contents0033@EZCloud.hlp
+3 Cloud_CreateCloud()=SHM_contents0034@EZCloud.hlp
+3 Cloud_CreateParticle()=SHM_contents0035@EZCloud.hlp
+3 Cloud_Get_Particle()=SHM_contents0036@EZCloud.hlp
+3 Cloud_Get_ParticleAlpha()=SHM_contents0037@EZCloud.hlp
+3 Cloud_Get_ParticleCount()=SHM_contents0038@EZCloud.hlp
+3 Cloud_Get_ParticleFormation()=SHM_contents0039@EZCloud.hlp
+3 Cloud_Get_ParticleLOD()=SHM_contents0040@EZCloud.hlp
+3 Cloud_Get_ParticleScale()=SHM_contents0041@EZCloud.hlp
+3 Cloud_Get_ParticleType()=SHM_contents0042@EZCloud.hlp
+3 Cloud_Init()=SHM_contents0043@EZCloud.hlp
+3 Cloud_Kill_AllClouds()=SHM_contents0044@EZCloud.hlp
+3 Cloud_Kill_AllParticles()=SHM_contents0045@EZCloud.hlp
+3 Cloud_Kill_Cloud()=SHM_contents0046@EZCloud.hlp
+3 Cloud_Kill_Particles()=SHM_contents0047@EZCloud.hlp
+3 Cloud_LoadCloud()=SHM_contents0048@EZCloud.hlp
+3 Cloud_Set_CloudFormation()=SHM_contents0049@EZCloud.hlp
+3 Cloud_Set_ParticleAlpha()=SHM_contents0050@EZCloud.hlp
+3 Cloud_Set_ParticleColor()=SHM_contents0051@EZCloud.hlp
+3 Cloud_Set_ParticleFormation()=SHM_contents0052@EZCloud.hlp
+3 Cloud_Set_ParticleLOD()=SHM_contents0053@EZCloud.hlp
+3 Cloud_Set_ParticlePosition()=SHM_contents0054@EZCloud.hlp
+3 Cloud_Set_ParticleScale()=SHM_contents0055@EZCloud.hlp
+3 Cloud_Set_ParticleType()=SHM_contents0056@EZCloud.hlp
+3 Cloud_Update()=SHM_contents0057@EZCloud.hlp
+2 System Globals
+3 Global List=SHM_contents0058@EZCloud.hlp
+3 Cloud_Cam=SHM_contents0059@EZCloud.hlp
+3 Cloud_SysActive=SHM_contents0060@EZCloud.hlp
+3 Cloud_MaxVerticies=SHM_contents0061@EZCloud.hlp
+3 Cloud_ActiveParticles=SHM_contents0062@EZCloud.hlp
+3 Cloud_TotalParticles=SHM_contents0063@EZCloud.hlp
+3 Cloud_LODActive=SHM_contents0064@EZCloud.hlp
+3 Cloud_LODDistance=SHM_contents0065@EZCloud.hlp
+3 Cloud_TemplateFile$=SHM_contents0066@EZCloud.hlp
+3 Cloud_Object=SHM_contents0067@EZCloud.hlp
+1 Tutorials
+2 Tutorials Section=SHM_contents0068@EZCloud.hlp
